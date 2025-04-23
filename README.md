@@ -14,8 +14,6 @@ This project uses a custom-trained image classification model from Teachable Mac
 ## 📦 Files Included
 - `model.json` + `weights.bin` – the trained model
 - `index.html` – the main web page
-- `script.js` – handles loading the model and running predictions
-- `style.css` – optional styling
 
 ## 🚀 How to Use
 1. Clone or download this repository.
